@@ -46,6 +46,9 @@
 --reserved-nodes="/ip4/82.146.34.66/tcp/30333/p2p/12D3KooWPmPQZr8ytMdwaDBWGoiuBf7G5gJpEmQ2ZCCdeqsAaNnR" \
 --reserved-nodes="/ip4/94.103.87.148/tcp/30333/p2p/12D3KooWMWJP5A9mHn9FpGjf622WK1hLxmNkhzpHA32Aa6nTkWug" \
 --reserved-nodes="/ip4/95.111.253.211/tcp/30333/p2p/12D3KooWJZPWB64HnAkfnQMQQP5qLf8AxKqDLkEnhmU9tTKrN1r8" \
+--reserved-nodes="/ip4/173.249.5.56/tcp/30333/p2p/12D3KooWKw13bcZQ8vEkQguq3hHEPyxay4tRJvF7HsJd7NUjxHNp" \
+--reserved-nodes="/ip4/5.189.157.108/tcp/30333/p2p/12D3KooWLV1or8EH7oKEdre7LJjzQJgjL6hkgLbG5P9AvWthbuSL" \
+--reserved-nodes="/ip4/38.242.201.126/tcp/30333/p2p/12D3KooWDnw2HcSomhZCoKdHMAXPNGraDgNSPLjddNRbt6PUcMrN" \
 --reserved-nodes="/dns/bootstrap-0.gemini-1b.subspace.network/tcp/30333/p2p/12D3KooWF9CgB8bDvWCvzPPZrWG3awjhS7gPFu7MzNPkF9F9xWwc" \
 --reserved-nodes="/dns/bootstrap-1.gemini-1b.subspace.network/tcp/30333/p2p/12D3KooWLrpSArNaZ3Hvs4mABwYGDY1Rf2bqiNTqUzLm7koxedQQ" \
 --reserved-nodes="/dns/bootstrap-10.gemini-1b.subspace.network/tcp/30333/p2p/12D3KooWNGf1qr5411JwPHgwqftjEL6RgFRUEFnsJpTMx6zKEdWn" \
