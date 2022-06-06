@@ -522,7 +522,7 @@
 --reserved-nodes="/ip4/38.242.218.195/tcp/30333/p2p/12D3KooWRnzmtsbsaATygH9zSdqEuQV6R5gojGuNWvFBnhPLdFyg" \
 --reserved-nodes="/ip4/38.242.199.215/tcp/30333/p2p/12D3KooWHZYwKvyMeFGCEemuKm7yPB1AdvQTWKPz2R3zjKs9BxwV" \
 --reserved-nodes="/ip4/185.197.194.93/tcp/30333/p2p/12D3KooWCUWyVrzsh7BQkgimwWWJrQGfnXptkWsJJUhdGjEG2X8q" \
---reserved-nodes="/ip4/95.217.64.248/tcp/30333/p2p/12D3KooWRi1phVH668RDwUAUcqcPfTuWTD9WHt9W6BN89udyFRR6"
+--reserved-nodes="/ip4/95.217.64.248/tcp/30333/p2p/12D3KooWRi1phVH668RDwUAUcqcPfTuWTD9WHt9W6BN89udyFRR6" \
 --reserved-nodes="/ip4/65.109.7.106/tcp/30333/p2p/12D3KooWALNu42dTLyQb69SAhy2WTrHYAj78MWNsu6w2ot5teD9h" \
 --reserved-nodes="/ip4/77.232.41.37/tcp/30333/p2p/12D3KooWHx4NdxKDqR63UqgXGbBqWSWegEvhdWKbYb7nBmUR6wmP" \
 --reserved-nodes="/ip4/149.102.149.67/tcp/30333/p2p/12D3KooWNYkXd9nH2jMiDTjfRu9MrxEjKxeGnbcFHuExSYAQ17Nx" \
