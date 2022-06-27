@@ -184,4 +184,4 @@
 --reserved-nodes="/ip4/65.108.100.57/tcp/30333/p2p/12D3KooWNML4QbsXPRpRHaP6EknLEHn1WuGyUdMqL68rJQSVTJqn" \
 --reserved-nodes="/ip4/38.242.209.175/tcp/30333/p2p/12D3KooWHP8BBqPUS3tScCBgLAGBcFZRh4RFQjPumReD9yXxNzEy" \
 --reserved-nodes="/ip4/68.183.208.165/tcp/30333/p2p/12D3KooWEqpFPYYctdTBdyXc7LpFe1ZGsixaYMCEo2FKGxN3jomR" \
---reserved-nodes="/ip4/161.97.136.33/tcp/30333/p2p/12D3KooWGh4Vg4W3tNvBKmSpNfdTTV6jNMW2Fefxbiq1AXbfpows" \
+--reserved-nodes="/ip4/161.97.136.33/tcp/30333/p2p/12D3KooWGh4Vg4W3tNvBKmSpNfdTTV6jNMW2Fefxbiq1AXbfpows"
